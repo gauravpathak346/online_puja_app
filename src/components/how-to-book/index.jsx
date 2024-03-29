@@ -25,7 +25,7 @@ export default function HowToBook() {
   return (
     <Box>
       <Typography sx={howToBookHeadingStyle}>
-        How <span>MarathiSarvaPooja</span> Works
+        How <span>Our Process</span> Works
       </Typography>
       <Timeline position="alternate">
         {howToBookTimeline.map((T) => (

@@ -2,7 +2,7 @@ import logo from "../assets/logo.png";
 
 export const navbarData = {
   logo,
-  phoneNo: "7899148582",
+  phoneNo: "7310213063",
   navList: [
     { title: "My Journey", link: "/about-us" },
     { title: "All Puja Services", link: "/allpujas/pujas" },

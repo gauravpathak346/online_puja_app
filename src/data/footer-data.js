@@ -2,18 +2,16 @@ import logo from "../assets/logo.png";
 
 export const footerData = {
   logo,
-  footer_details: ` Welcome to Marathi Sarva Puja Services, India's premier online
+  footer_details: ` Welcome to online puja booking platform, India's premier online
           platform for hassle-free puja bookings. Serving major metropolitan
-          cities across India, including Bangalore, Chennai, Hyderabad, and
-          Coimbatore,and also in Gokarna and Srirangapatna, our puja services
-          are available in a variety of languages such as Hindi, Telugu,
-          Kannada, Marathi, and more.`,
-  number: "7899148582",
-  email: "marathisarvapooja@gmail.com",
-  address: `No. 123, 15th Cross Rd, Ittamadu, Banashankari 3rd Stage, Hosakerehalli, Bengaluru, Karnataka 560085dsfdaf`,
+          cities across India and also available in Varanasi, and other states of Uttar Pradesh
+           our puja services are available in a variety of languages such as Hindi, Sanskrit and more.`,
+  number: "7310213063",
+  email: "ptamitpathak708@gmail.com",
+  address: `Varanasi, Uttar Pradesh, India`,
   fb_link: "https://www.fb.com",
-  insta_link: "https://www.instagram.com/marathisarvapooja/",
-  whatsapp: "7899148582",
+  insta_link: "https://www.instagram.com/amitpathak708/",
+  whatsapp: "7310213063",
   main_links: [
     { title: "Home", link: "/" },
     { title: "My Journey", link: "/about-us" },
