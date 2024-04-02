@@ -95,14 +95,14 @@ export const servicesData = [
   },
 
   {
-    title: "Udaka Shanti",
+    title: "Maha Mrityunjay Jap Anusthan",
     category: "pujas",
     description: [
       "Udaka Shanti holds the purpose of cultivating tranquillity and concord within the household. Traditionally, this ritual is undertaken preceding significant events or ceremonies such as Upanayan (sacred thread ceremony), Gruha Pravesh (housewarming), Marriages, and even for nurturing the well-being of an unborn child. It can also be conducted post-childbirth and as a means to foster serenity in the home. The essence of Udaka Shanti mantras is rooted in the profound wisdom of the Vedas.",
       "Conducted under the guidance of Pandits, the Udaka Shanti ceremony commences with Ganesh Puja and homage to Lord Varun. The invocation extends to various deities as the ritual involves consecrating a Kalash (vessel) filled with water. The Udakashanti mantras, sourced from the Yajurveda and encompassing a remarkable 1441 lines, are intoned during this sacred observance.",
     ],
     benefits: {
-      title: "Advantages Gained from Udaka Shanti Puja:",
+      title: "Advantages Gained from Maha Mrityunjay Jap Anusthan:",
       points: [
         {
           title: "Harmony and Prosperity:",
@@ -126,7 +126,7 @@ export const servicesData = [
   },
 
   {
-    title: "GrihaPravesh Puja",
+    title: "Bhagvat Katha",
     category: "pujas",
     description: [
       "Griha Pravesh Puja and Vastu Shanti Puja mark important rituals performed before stepping into a new dwelling. These ceremonies hold the power to dispel negativity and doshas from the premises, ushering in a positive flow of energy. The act of performing Griha Pravesh not only blesses the inhabitants with peace and prosperity but also acts as a safeguard against natural calamities.",
@@ -162,7 +162,7 @@ export const servicesData = [
   },
 
   {
-    title: "Satyanarayan Puja",
+    title: "SatChandi Yagya",
     category: "pujas",
     description: [
       "The Satyanarayan Puja is a sacred ritual aimed at pleasing Lord Satyanarayan, a compassionate manifestation of Lord Vishnu representing the embodiment of Truth and Justice.",
@@ -194,12 +194,10 @@ export const servicesData = [
   },
 
   {
-    title: "Ganesh Puja",
+    title: "Maha Vidya Path",
     category: "pujas",
     description: [
-      "Lord Ganesha, the revered son of Lord Shiva and Goddess Parvathi, holds a special place in the hearts of many devotees. The Ganesh Puja, a ritual to honour him, is often performed prior to various ceremonies and pujas to seek his blessings and ensure the smooth flow of proceedings.",
-      "Whether embarking on a new business venture, making investments, celebrating a housewarming, getting married, or seeking to mitigate the adverse effects of Ketu, conducting a Ganapathi puja is recommended.",
-      "The Ganesh Puja typically involves invoking Lord Ganapathi, chanting the Ganapathi Mantra, and conducting the puja itself. This ritual serves as a conduit for connecting with Lord Ganesha's divine energy and receiving his blessings.",
+      "Maha Mrityunjaya Jap Anusthan is a powerful Hindu spiritual practice dedicated to Lord Shiva, the destroyer of death and the granter of immortality. The term Maha Mrityunjaya translates to great victory over death, and the Jap Anusthan refers to the act of repeating or chanting a mantra with dedication and focus over a specific period. The central mantra of this practice is the Maha Mrityunjaya Mantra: ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्",
     ],
     benefits: {
       title: "Benefits of Ganesh Puja:",
@@ -622,7 +620,7 @@ export const servicesData = [
   },
 
   {
-    title: "Chandi Havan",
+    title: "SatChandi Yagya",
     category: "homa-havan",
     description: [
       "Chandi Havan holds the purpose of invoking the blessings of Goddess Chandi, a fierce and potent manifestation of Durga Maa. The ritual is intended to surmount obstacles, attain success, and overcome negative influences. It serves as a means to liberate from curses and evil eyes while bestowing wealth and prosperity.",
@@ -692,7 +690,7 @@ export const servicesData = [
   },
 
   {
-    title: "Navagraha Havan",
+    title: "Navagraha Shanti",
     category: "homa-havan",
     description: [
       "Navagraha Havan, also known as Graha Shanti Havan, is conducted to pacify the nine Grahas or celestial bodies and alleviate the adverse influences of these planets in one's life. The influence of these nine planets is profound, and they can swiftly alter various aspects of one's existence.",
@@ -723,7 +721,7 @@ export const servicesData = [
   },
 
   {
-    title: "Maha Mrityunjaya Havan",
+    title: "Maha Mrityunjaya Yagya Anushthan",
     category: "homa-havan",
     description: [
       "Maha Mrityunjaya Havan, also recognized as Maha Sanjeevani Yagna, is a ritual designed to rejuvenate and empower individuals in their battle against mortality. This havan serves as a lifeline for those grappling with persistent health challenges or confronting the spectre of untimely demise due to unforeseen accidents or unfavourable circumstances.",

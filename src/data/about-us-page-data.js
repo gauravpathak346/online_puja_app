@@ -12,7 +12,7 @@ import duniya_Vijay from "../assets/VIP-photos/panditforpujaH.webp";
 export const aboutUsPageData = {
   main: {
     pandit_img: panditImg,
-    pandit_name: "Manoj Kulkarni Purohit",
+    pandit_name: "Pt. Amit Pathak",
   },
   content: {
     gokarna: {
@@ -74,15 +74,8 @@ export const aboutUsPageData = {
     differentStates:
       "Furthermore, I perform Navagraha Japa Homa, Kadali Vivaha, Kumbh Vivaha, Pitru Shanti, Upanayana, Vivaha (Marriage), Kuja Rahu Sandhi Shanti, Vinyak Shanti, Kalasapra Shanti, Udaka Shanti, Durga Deepa Namaskara, Mahamrityunjaya Havan, Durga Saptashati Parayana, Vatasavitri Pooja, Kula Shanti Homa, and all types of Pitru Karya and Shraddha. Rest assured, each of these rituals is executed in accordance with time-honored customs and traditions under my guidance.",
     languages: [
-      "Kannada",
-      "Marathi",
+      "Sanskrit",
       "Hindi",
-      "English",
-      "Goa- Konkani",
-      "Tamil",
-      "Telugu",
-      "Tulu",
-      "Karwar Konkani",
     ],
   },
 };
