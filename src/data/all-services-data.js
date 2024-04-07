@@ -98,26 +98,25 @@ export const servicesData = [
     title: "Maha Mrityunjay Jap Anusthan",
     category: "pujas",
     description: [
-      "Udaka Shanti holds the purpose of cultivating tranquillity and concord within the household. Traditionally, this ritual is undertaken preceding significant events or ceremonies such as Upanayan (sacred thread ceremony), Gruha Pravesh (housewarming), Marriages, and even for nurturing the well-being of an unborn child. It can also be conducted post-childbirth and as a means to foster serenity in the home. The essence of Udaka Shanti mantras is rooted in the profound wisdom of the Vedas.",
-      "Conducted under the guidance of Pandits, the Udaka Shanti ceremony commences with Ganesh Puja and homage to Lord Varun. The invocation extends to various deities as the ritual involves consecrating a Kalash (vessel) filled with water. The Udakashanti mantras, sourced from the Yajurveda and encompassing a remarkable 1441 lines, are intoned during this sacred observance.",
+      "The Mahamrityunjaya Abhishek is a sacred Hindu ritual that involves bathing a deity, typically Lord Shiva, with offerings like water, milk, yogurt, honey, and other auspicious liquids while chanting the Mahamrityunjaya Mantra. This ritual is performed with deep devotion and reverence, believed to invoke divine blessings for healing, longevity, and protection from illness and untimely death. Devotees often perform the Mahamrityunjaya Abhishek to seek relief from physical, mental, or spiritual ailments and to attain spiritual upliftment. It is considered a potent form of worship that fosters a deeper connection with the divine and promotes overall well-being.",
     ],
     benefits: {
       title: "Advantages Gained from Maha Mrityunjay Jap Anusthan:",
       points: [
         {
-          title: "Harmony and Prosperity:",
+          title: "Health and Longevity:",
           description:
-            "Udakashanti contributes to the harmonious flow of energies and invites good fortune.",
+            "The Mahamrityunjaya Yagya is believed to bestow physical well-being and longevity upon the participants, invoking blessings for good health and protection from illnesses and calamities.",
         },
         {
           title: "Spiritual Sanctity:",
           description:
-            "The surrounding milieu is imbued with a sense of purity and sanctity due to the divine vibes generated.",
+            "Participating in the Mahamrityunjaya Yagya fosters spiritual growth and inner strength, helping individuals connect deeply with their inner selves and with the divine.",
         },
         {
           title: "Obstacle Mitigation: ",
           description:
-            "This ritual serves as a conduit for surmounting life's challenges and obstacles.",
+            "This yagya is performed to overcome obstacles and challenges in life, providing a sense of resilience and empowerment to face adversities with courage and determination.",
         },
       ],
     },
@@ -129,30 +128,30 @@ export const servicesData = [
     title: "Bhagvat Katha",
     category: "pujas",
     description: [
-      "Griha Pravesh Puja and Vastu Shanti Puja mark important rituals performed before stepping into a new dwelling. These ceremonies hold the power to dispel negativity and doshas from the premises, ushering in a positive flow of energy. The act of performing Griha Pravesh not only blesses the inhabitants with peace and prosperity but also acts as a safeguard against natural calamities.",
+      "The Shrimad Bhagwat Katha is a recitation of the ancient Hindu scripture, the Bhagavata Purana, which narrates the divine pastimes of Lord Krishna. It is a devotional practice aimed at spreading the teachings of love, devotion, and righteousness as exemplified by Lord Krishna's life.",
     ],
     benefits: {
-      title: "Advantages of Vastu Shanti Puja:",
+      title: "Advantages of Shrimad Bhagwat katha:",
       points: [
         {
           title: "Energy Enhancement:",
           description:
-            "The puja shields against negative energies and the evil eye while promoting a surge of positivity.",
+            " Attending or participating in the Shrimad Bhagwat Katha can lead to spiritual enlightenment, deepening one's understanding of the divine principles and the path of devotion as elucidated in the Bhagavata Purana.",
         },
         {
-          title: "Abundance and Serenity:",
+          title: "Purification of Mind and Soul:",
           description:
             "Inhabitants are blessed with prosperity, harmony, and good fortune.",
         },
         {
           title: "Spiritual Aura:",
           description:
-            "The surroundings become sanctified, enveloped in divine vibes, and a sacred atmosphere.",
+            "The recitation of the Bhagavata Purana and the associated rituals during the Katha are believed to purify the mind and soul, helping individuals overcome negative influences and attain inner peace and tranquility.",
         },
         {
-          title: "Obstacle Clearance:",
+          title: "Blessings and Divine Grace",
           description:
-            "This ritual aids in surmounting life's hurdles and obstacles.Graha Shanti Puja and Vastu Shanti Puja venerate the Vastu Purush and the celestial bodies, guarding against untoward events for both the abode and its residents. It's crucial to rephrase the content, maintaining the essence while avoiding direct copying to sidestep copyright issues on your website.",
+            "By immersing oneself in the divine stories and teachings of Lord Krishna, participants of the Shrimad Bhagwat Katha invite blessings and divine grace into their lives, fostering spiritual growth, prosperity, and overall well-being.",
         },
       ],
     },
@@ -165,22 +164,20 @@ export const servicesData = [
     title: "SatChandi Yagya",
     category: "pujas",
     description: [
-      "The Satyanarayan Puja is a sacred ritual aimed at pleasing Lord Satyanarayan, a compassionate manifestation of Lord Vishnu representing the embodiment of Truth and Justice.",
-      "Satyanarayan Puja is conducted to express gratitude to the divine for the initiation or successful culmination of auspicious events in one's life. Additionally, this puja is performed to fulfil heartfelt desires and wishes.",
-      "The commencement of the puja is marked by the invocation of Lord Ganesha and Goddess Gowri, followed by the recitation of the five chapters of the Lord Satyanarayan Katha. Havan, a ceremonial fire offering, is conducted to honour Lord Satyanarayan and invoke his blessings. The conclusion involves the distribution of Satyanarayan Puja Prasad among the devotees.",
+      "Satchandi Yagya is a sacred Vedic ritual performed to worship Goddess Chandi, an incarnation of Goddess Durga. It involves the recitation of the Durga Saptashati, a scripture containing 700 verses glorifying Goddess Durga's victory over evil forces. This yagya is conducted with elaborate rituals and offerings to invoke the blessings of Goddess Chandi for protection, prosperity, and spiritual upliftment.",
     ],
     benefits: {
-      title: "Benefits of Satyanarayan Puja:",
+      title: "Benefits of Shri Satchandi Yagya:",
       points: [
         {
-          title: "Family Harmony: ",
+          title: "Protection from Negativity: ",
           description:
-            "The Satyanarayan Puja brings a sense of tranquillity, harmony, and prosperity to the household.",
+            "Participating in the Satchandi Yagya is believed to invoke the protective energy of Goddess Chandi, shielding devotees from negative influences, obstacles, and adversities in life.",
         },
         {
           title: "Protective Shield:",
           description:
-            "By performing this puja, individuals safeguard themselves from the malevolent eye, adversaries, and negative influences.",
+            " The yagya is performed with the intention of fulfilling devotees' desires and aspirations, whether material, emotional, or spiritual, by seeking the benevolent blessings of Goddess Chandi.",
         },
         {
           title: "Obstacle Overcoming: ",
@@ -197,25 +194,25 @@ export const servicesData = [
     title: "Maha Vidya Path",
     category: "pujas",
     description: [
-      "Maha Mrityunjaya Jap Anusthan is a powerful Hindu spiritual practice dedicated to Lord Shiva, the destroyer of death and the granter of immortality. The term Maha Mrityunjaya translates to great victory over death, and the Jap Anusthan refers to the act of repeating or chanting a mantra with dedication and focus over a specific period. The central mantra of this practice is the Maha Mrityunjaya Mantra: ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्",
+      "The Mahavidya Path is a spiritual practice centered around the worship of the ten Mahavidyas, or Great Wisdoms, in Hinduism. These goddesses represent different aspects of the divine feminine energy and are revered for their transformative powers. Devotees engage in various rituals, meditation, and recitation of mantras associated with each Mahavidya to attain spiritual enlightenment and worldly fulfillment.",
     ],
     benefits: {
-      title: "Benefits of Ganesh Puja:",
+      title: "Benefits of Mahavidya Path:",
       points: [
         {
           title: "Enhanced Intelligence and Wisdom:",
           description:
-            "The Ganesh Puja is believed to bestow worshippers with heightened intelligence and wisdom, aiding in their personal and professional growth.",
+            "By undertaking the Mahavidya Path, practitioners gain access to profound wisdom and spiritual insights from the ten Mahavidyas, enabling them to deepen their understanding of the universe and themselves.",
         },
         {
           title: "Obstacle Removal:",
           description:
-            "One of the most renowned aspects of Lord Ganesha is his role as the remover of obstacles. The puja is performed to seek his assistance in overcoming challenges and hurdles in life's journey.",
+            "Each Mahavidya is associated with specific powers and attributes, offering devotees protection from harm and guidance in navigating life's challenges. By invoking their blessings, practitioners can overcome obstacles and attain success in various aspects of life.",
         },
         {
           title: "Fortune and Harmony: ",
           description:
-            " Invoking Lord Ganesha through the puja is said to attract good fortune, harmony, and prosperity to the individual and their family.",
+            "The worship of Mahavidyas is believed to facilitate inner transformation and liberation from worldly attachments and limitations. Devotees may experience profound shifts in consciousness and personal growth on their spiritual journey.",
         },
       ],
     },
