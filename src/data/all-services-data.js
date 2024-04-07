@@ -1652,4 +1652,64 @@ export const servicesData = [
     id: 46,
     src: udakshanti,
   },
+  {
+    title: "Tripindi",
+    category: "Ancestors-rituals",
+    description: [
+      " Narayana signifies Lord Vishnu, while Bali translates to offering. Narayana Bali is a homa conducted to appease Lord Narayana. It's a ritual performed to fulfill the desires of individuals who have experienced unnatural deaths such as suicide, curses, drowning, snake bites, or lightning strikes. The aim is to grant solace to departed souls.",
+      "In the Narayana Bali homa, departed souls with unfulfilled desires are invoked into a symbolic body made of wheat flour. The ritual then acts as a liberating rite, guiding them to another realm. Chanting of Vishnu Sahasranam plays a pivotal role in this process.",
+    ],
+
+    benefits: {
+      title: "Benefits of Narayana Bali",
+      points: [
+        {
+          title: " ",
+          description:
+            " Provides tranquillity to the departed souls of our ancestors.",
+        },
+        {
+          title: " ",
+          description:
+            " Alleviates the negative influence of Pitru Dosha in one's horoscope.",
+        },
+        {
+          title: " ",
+          description:
+            "Safeguards the family from malevolent spirits by seeking the blessings of ancestors. ",
+        },
+      ],
+    },
+    id: 47,
+    src: udakshanti,
+  },
+  {
+    title: "Maha Vidya Path",
+    category: "Ancestors-rituals",
+    description: [
+      "The Mahavidya Path is a spiritual practice centered around the worship of the ten Mahavidyas, or Great Wisdoms, in Hinduism. These goddesses represent different aspects of the divine feminine energy and are revered for their transformative powers. Devotees engage in various rituals, meditation, and recitation of mantras associated with each Mahavidya to attain spiritual enlightenment and worldly fulfillment.",
+    ],
+    benefits: {
+      title: "Benefits of Mahavidya Path:",
+      points: [
+        {
+          title: "Enhanced Intelligence and Wisdom:",
+          description:
+            "By undertaking the Mahavidya Path, practitioners gain access to profound wisdom and spiritual insights from the ten Mahavidyas, enabling them to deepen their understanding of the universe and themselves.",
+        },
+        {
+          title: "Obstacle Removal:",
+          description:
+            "Each Mahavidya is associated with specific powers and attributes, offering devotees protection from harm and guidance in navigating life's challenges. By invoking their blessings, practitioners can overcome obstacles and attain success in various aspects of life.",
+        },
+        {
+          title: "Fortune and Harmony: ",
+          description:
+            "The worship of Mahavidyas is believed to facilitate inner transformation and liberation from worldly attachments and limitations. Devotees may experience profound shifts in consciousness and personal growth on their spiritual journey.",
+        },
+      ],
+    },
+    id: 5,
+    src: GaneshImage,
+  },
 ];
