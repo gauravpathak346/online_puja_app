@@ -39,37 +39,37 @@ export const aboutUsPageData = {
     differentStates:
       "Furthermore, I have extended my services to several other states across India, including Maharashtra, Pune, Mumbai, Rana, Kolhapur, Gujarat, Ahmedabad, Odisha, Andhra Pradesh (Tirupati Tirumala), and various other major regions. In these locations, I have conducted a diverse range of Poojas, such as Rudra Yaga, Veda Sabha, Sudarshana Yaga, Navachandi Yaga, Ayutha Chandi Yaga, Ganapati Pratishta, and Veda Parayana. These experiences have enriched my expertise in various forms of Poojas.",
     dkshiv: {
-      text: "Furthermore, I conducted the Homa/Havan in the residence of politician <s>D K Shivkumar<s> in Bengaluru, where the ritual took the form of Manaskalpa Chandika Yaga.",
+      text: "Furthermore, I conducted the Homa/Havan in the residence of politician in Varanasi, where the ritual took the form of Manaskalpa Chandika Yaga.",
       img: dkShiv,
       imgTitle:
-        "Havan in the residence of politician D K Shivkumar in Bengaluru",
+        "Havan in the residence of politician in Varanasi",
     },
     gopal:
-      "At the residence of <s>MLA Gopalaiah<s> in Kamakshipalya, a Navagraha Pooja and Havan were conducted as offerings to the deities.",
+      "A Navagraha Pooja and Havan were conducted as offerings to the deities.",
     tumukar: {
-      text: "Additionally, in the town of Huliyurdurga in Tumkur state, a Shata Chandi Yaga was organized at the <s>Vidya Chowdeshwari Temple.<s>",
+      text: "Additionally, a Shata Chandi Yaga was organized at the different Venue.<s><s>",
       img: nagaArjun,
-      imgTitle: "Nagarjuna Rao Famous South Actor",
+      imgTitle: "",
     },
     Bhud: "Moreover, in the village of Bhudihala in Tumkur, various rituals such as <s>Ayuta Chandi Yaga, Japa, Chandi Parayanam, Ashtavadhana Seva, and Yatha Shakti Seva<s> were performed with the participation of <s>nearly 3000 pandits<s>. These rituals were dedicated to goddesses Mahakali, Mahalaxmi, Chandika Durga Parameswari, showcasing deep devotion and reverence.",
     shrikant:
-      "As the dedicated Pandit entrusted with the responsibility, I had the honor of conducting various yagas and poojas for renowned <s>film director Shrikant Sharma<s> from Kankapura, Bengaluru. These included the auspicious Ganapati pratishthapana, along with the consecration ceremonies for Lord Shiva, Subramanya, and Durga idols. My role extended to orchestrating different yagas and poojas during the <s>movie promotion phase<s>, as well as facilitating homas and other rituals across diverse industries",
+      "As the dedicated Pandit entrusted with the responsibility, These included the auspicious Ganapati pratishthapana, along with the consecration ceremonies for Lord Shiva, Subramanya, and Durga idols. My role extended to orchestrating different yagas and poojas during the <s>movie promotion phase<s>, as well as facilitating homas and other rituals across diverse industries",
 
     shivRaj: {
-      text: "Prominent figures of the Kannada film industry, including the renowned actor <s>Dr. Shiva Raj Kumar<s>, along with Duniya Vijay and Dhanjay, were part of the sacred Homa/Yagana and Pooja ceremonies that I conducted. Additionally, the respected <s>MLA of Kanakapura, D K Suresh<s>, entrusted me with performing the Land pooja and grah pravesh rituals. These auspicious events garnered significant attention and were even covered through live telecasts by various media outlets, gaining widespread recognition in the Kannada news sphere.",
+      text: "",
       img: shivRaj,
       imgTitle:
-        "Dr. Shiva Raj Kumar, renowned actor of the Kannada film industry",
+        "",
     },
     variousLocation: {
-      text: "In revered locations like <s>Dakshin Kashi Gokarna and Mysore Talakaveri Kshetra Shrirangapattana<s>, I conduct a range of Homa Pooja ceremonies. These ceremonies include <s>Moksh Narayan Bali, Tripindi Shradha, Sarva Prayaschitta, and Tila Homa<s>, each performed with utmost devotion and precision.",
+      text: "In revered locations like Dakshin Kashi Gokarna , I conduct a range of Homa Pooja ceremonies. These ceremonies include <s>Moksh Narayan Bali, Tripindi Shradha, Sarva Prayaschitta, and Tila Homa<s>, each performed with utmost devotion and precision.",
       img: Naga_chaitanya,
-      imgTitle: "Naga Chaitanya, Famous Telugu Actor",
+      imgTitle: "",
     },
     duniyaVijay: {
-      text: "Across various states including <s>Pune, Mumbai, Delhi, Hyderabad, Tamil Nadu, Kerala, Goa, and Odisha<s>, as well as in cities like <s>Davangere, Dharwad, Hubli, Mandya, Mysore, Srirangapatna, Maddur, Ranibennur, Jalahalli, Banashankari, Vijaynagar, Kathriguppe, and Bangalore<s>, I have had the privilege to conduct a multitude of meaningful ceremonies. These ceremonies encompass a wide range of rituals, yagas, and homas. From Ashlesha Bali, Sarpa Samskara, and Sarpa Pratishthapanam to Pratyangira Homa, Aghorastra Homa, Sudarshana Yaga, and Chandi Yaga, I am dedicated to upholding the tradition and sanctity of these practices.",
+      text: "Across various states including <s>Pune, Mumbai, Delhi, Varanasi, Agra , Lucknow<s>, I have had the privilege to conduct a multitude of meaningful ceremonies. These ceremonies encompass a wide range of rituals, yagas, and homas. From Ashlesha Bali, Sarpa Samskara, and Sarpa Pratishthapanam to Pratyangira Homa, Aghorastra Homa, Sudarshana Yaga, and Chandi Yaga, I am dedicated to upholding the tradition and sanctity of these practices.",
       img: duniya_Vijay,
-      imgTitle: "Duniya Vijay, Famous Kannada Actor",
+      imgTitle: "",
     },
     differentStates:
       "Furthermore, I perform Navagraha Japa Homa, Kadali Vivaha, Kumbh Vivaha, Pitru Shanti, Upanayana, Vivaha (Marriage), Kuja Rahu Sandhi Shanti, Vinyak Shanti, Kalasapra Shanti, Udaka Shanti, Durga Deepa Namaskara, Mahamrityunjaya Havan, Durga Saptashati Parayana, Vatasavitri Pooja, Kula Shanti Homa, and all types of Pitru Karya and Shraddha. Rest assured, each of these rituals is executed in accordance with time-honored customs and traditions under my guidance.",

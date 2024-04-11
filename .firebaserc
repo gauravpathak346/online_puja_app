@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "online-puja-318bd",
+    "staging": "online-puja-318bd"
+  },
+  "targets": {},
+  "etags": {}
+}
